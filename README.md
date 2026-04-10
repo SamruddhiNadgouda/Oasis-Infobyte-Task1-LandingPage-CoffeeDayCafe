@@ -49,12 +49,6 @@ Oasis-Infobyte-Task1-LandingPage-CoffeeDayCafe/
 
 ---
 
-## 🖼️ Output Preview
-
-Screenshots of the live page are included in the repository showcasing the hero section, coffee menu grid, and footer.
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**
